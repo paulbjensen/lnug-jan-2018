@@ -1,0 +1,18 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "The presentation for LNUG January 2018",
+  "main": "index.js",
+  "dependencies": {
+    "officegen": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "powerpoint"
+  ],
+  "author": "Paul Jensen <paul@anephenix.com>",
+  "license": "MIT"
+}
