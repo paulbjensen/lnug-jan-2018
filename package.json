@@ -4,7 +4,7 @@
   "description": "The presentation for LNUG January 2018",
   "main": "index.js",
   "dependencies": {
-    "officegen": "^0.4.5"
+    "officegen": "^0.6.0"
   },
   "devDependencies": {
     "lodash": ">=4.17.11"
